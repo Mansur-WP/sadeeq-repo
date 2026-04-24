@@ -1,2 +1,2 @@
 let name = "maersur"
-console.log("name")
+console.log("You're too mumu Sadeeq")
